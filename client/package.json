@@ -1,0 +1,22 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "devDependencies": {
+    "babelify": "6.4.0",
+    "browserify": "11.2.0",
+    "gulp": "3.9.0",
+    "gulp-babel": "5.3.0",
+    "gulp-concat": "2.6.0",
+    "gulp-sourcemaps": "1.6.0",
+    "node-underscorify": "0.0.14",
+    "q": "1.4.1",
+    "vinyl-source-stream": "1.1.0"
+  },
+  "dependencies": {
+    "backbone": "1.2.3",
+    "jquery": "2.1.4",
+    "lodash": "3.10.1",
+    "mapbox.js": "2.2.2",
+    "q": "1.4.1"
+  }
+}
